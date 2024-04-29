@@ -1,2 +1,15 @@
-# apex-brasileirao
-Made with Bun, Puppeteer, screenshots table from web which allows usage at CMS
+# brasileirao
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.1.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
